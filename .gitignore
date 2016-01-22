@@ -1,0 +1,6 @@
+.gitreview
+npm-debug.log
+node_modules/*
+ui/node_modules/*
+ui/bower_components/*
+ui/dist
